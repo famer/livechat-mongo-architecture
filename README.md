@@ -9,6 +9,6 @@ Project was implemetned and doccumented along with suggestions for imporvement o
 Suggestions for replication of the data.
 Additional: file sharing between visitor and operator with mongofiles.
 
-Data samples, queries and some additional data in file [mongojson_main.js](master/mongojson_main.js).
+Data samples, queries and some additional data in file [mongojson_main.js](mongojson_main.js).
 
 P.S. Actual mongo version for this project was ~2.1 so project doesn't take advantage of modern features of version 3.
